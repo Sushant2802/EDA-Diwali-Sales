@@ -65,12 +65,14 @@ Summary of findings to aid in strategic decisions.
 <br>
 git clone https://github.com/Sushant2802/EDA-Diwali-Sales.git
 <br>
+<br>
 
 2. Navigate to the project directory:
+<br>
 cd EDA-Diwali-Sales
 <br>
 
-3. Ensure the dataset (Diwali Sales Data.csv) is in the directory.
+4. Ensure the dataset (Diwali Sales Data.csv) is in the directory.
 <br>
 
 4.Install the required Python libraries:
