@@ -67,7 +67,6 @@ git clone https://github.com/Sushant2802/EDA-Diwali-Sales.git
 <br>
 
 2. Navigate to the project directory:
-<br>
 cd EDA-Diwali-Sales
 <br>
 
@@ -75,12 +74,10 @@ cd EDA-Diwali-Sales
 <br>
 
 4.Install the required Python libraries:
-<br>
 pip install -r requirements.txt
 <br>
 
 5. Open the Jupyter Notebook:
-<br>
 jupyter notebook "EDA - Data Analyst Project.ipynb"
 <br>
 6. Run the notebook cells sequentially to reproduce the analysis.
