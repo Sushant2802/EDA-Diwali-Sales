@@ -67,8 +67,7 @@ git clone https://github.com/Sushant2802/EDA-Diwali-Sales.git
 <br>
 <br>
 
-2. Navigate to the project directory:
-<br>
+2. Navigate to the project directory : 
 cd EDA-Diwali-Sales
 <br>
 
