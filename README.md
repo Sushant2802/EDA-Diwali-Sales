@@ -13,12 +13,20 @@ The dataset used for this project, Diwali Sales Data, contains sales information
 <br>
 
 Rows: 11,251
+<br>
 Columns: 15
+<br>
 Total Data Points: 168,765
+<br>
 The dataset must be available in the repository as Diwali Sales Data.csv or provided by the user.
+<br>
+<br>
 
 Libraries Used
+<br>
 The project leverages the following Python libraries:
+<br>
+<br>
 
 NumPy: For numerical operations.
 Pandas: For data manipulation and analysis.
