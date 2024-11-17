@@ -1,10 +1,16 @@
 # EDA-Diwali-Sales
 
-Overview
+## Overview
+<br>
 This project involves performing Exploratory Data Analysis (EDA) on the Diwali Sales Data to uncover trends, patterns, and actionable insights. The goal is to understand customer behavior, analyze sales performance, and generate visualizations that support decision-making.
+<br>
+<br>
 
-Dataset
+## Dataset 
+<br>
 The dataset used for this project, Diwali Sales Data, contains sales information. The dataset includes:
+<br>
+<br>
 
 Rows: 11,251
 Columns: 15
