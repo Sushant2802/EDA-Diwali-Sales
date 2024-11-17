@@ -22,10 +22,9 @@ The dataset must be available in the repository as Diwali Sales Data.csv or prov
 <br>
 <br>
 
-Libraries Used
+## Libraries Used
 <br>
 The project leverages the following Python libraries:
-<br>
 <br>
 
 NumPy: For numerical operations.
@@ -34,8 +33,9 @@ Pandas: For data manipulation and analysis.
 <br>
 Matplotlib and Seaborn: For data visualization.
 <br>
-Features of the Project
 <br>
+
+## Features of the Project
 <br>
 
 Data Import and Overview:
@@ -44,8 +44,6 @@ Load and inspect the dataset.
 <br>
 Identify key statistics like shape, size, and basic structure.
 <br>
-<br>
-
 Data Cleaning:
 <br>
 Handle missing values and encoding issues.
@@ -61,45 +59,35 @@ Summary of findings to aid in strategic decisions.
 <br>
 <br>
 
-How to Use
+## How to Use
 <br>
-Clone the repository:
-<br>
-bash
-<br>
-Copy code
+1. Clone the repository:
 <br>
 git clone https://github.com/Sushant2802/EDA-Diwali-Sales.git
 <br>
-Navigate to the project directory:
-<br>
-bash
-<br>
-Copy code
+
+2. Navigate to the project directory:
 <br>
 cd EDA-Diwali-Sales
 <br>
-Ensure the dataset (Diwali Sales Data.csv) is in the directory.
+
+3. Ensure the dataset (Diwali Sales Data.csv) is in the directory.
 <br>
-Install the required Python libraries:
-<br>
-bash
-<br>
-Copy code
+
+4.Install the required Python libraries:
 <br>
 pip install -r requirements.txt
 <br>
-Open the Jupyter Notebook:
-<br>
-bash
-<br>
-Copy code
+
+5. Open the Jupyter Notebook:
 <br>
 jupyter notebook "EDA - Data Analyst Project.ipynb"
 <br>
-Run the notebook cells sequentially to reproduce the analysis.
+6. Run the notebook cells sequentially to reproduce the analysis.
 <br>
-Results
+<br>
+
+## Results
 <br>
 The notebook contains detailed visualizations and insights derived from the analysis. Findings can help businesses optimize sales strategies and understand customer preferences.
 <br>
